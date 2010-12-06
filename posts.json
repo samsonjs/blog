@@ -1,7 +1,7 @@
 { "published" :
-  [ "working-with-c-style-structs-in-ruby.html"
-  , "basics-of-the-mach-o-file-format.html"
+  [ "37signals-chalk-dissected.html"
   , "a-preview-of-mach-o-file-generation.html"
-  , "37signals-chalk-dissected.html"
+  , "basics-of-the-mach-o-file-format.html"
+  , "working-with-c-style-structs-in-ruby.html"
   ]
 }
