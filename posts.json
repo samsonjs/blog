@@ -1,8 +1,0 @@
-{ "published" :
-  [ "37signals-chalk-dissected.html"
-  , "a-preview-of-mach-o-file-generation.html"
-  , "basics-of-the-mach-o-file-format.html"
-  , "working-with-c-style-structs-in-ruby.html"
-  , "using-emacs-to-develop-mojo-apps-for-webos.html"
-  ]
-}
