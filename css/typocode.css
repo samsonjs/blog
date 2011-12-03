@@ -65,7 +65,7 @@
 
 code {
   font-family: "Andale Mono", "Lucida Typewriter", "Bitstream Vera Sans Mono", fixed-width, monospace;
-/*  font-size: 120%;*/
+  font-size: 0.9em;
 }
 
 pre {
