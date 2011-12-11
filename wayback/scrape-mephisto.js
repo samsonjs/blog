@@ -48,9 +48,9 @@ function onLoad(err, window) {
           , post.body
           , ''
           ].join('\n')
-    , slug = strftime('%Y-%m-%d_' + post.title
+    , slug = strftime('%Y.%m.%d-' + post.title
                       .toLowerCase()
-                      .replace(/[^\sa-z0-9_-]/g, '')
+                      .replace(/[^\sa-z0-9._-]/g, '')
                       .replace(/\s+/g, '-'), new Date(post.ISODate))
                       console.log('slug: ' + slug)
   fs.writeFileSync('../recovered/' + slug + '.html', s, 'utf8')
